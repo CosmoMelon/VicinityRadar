@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cibc-square", "name": "CIBC SQUARE", "address": "81 Bay Street", "city": "Toronto", "province": "Ontario",
+    "latitude": 43.6442, "longitude": -79.3783, "propertyType": "Two-tower office development", "sizeSqft": 3000000,
+    "description": "Two-tower office development beside Union Station; 81 Bay is the first tower.",
+    "hinesRoles": ["Asset Manager", "Co-Developer", "Development Manager", "Owner", "Property Manager"],
+    "sourceUrl": "https://www.hines.com/properties/cibc-square-toronto", "coordinateSourceUrl": "https://maps.google.com/?q=43.6442%2C-79.3783&z=15", "retrievedAt": "2026-10-21"
+  },
+  {
+    "id": "west-house", "name": "West House", "address": "88 Bathurst Street", "city": "Toronto", "province": "Ontario",
+    "latitude": 43.6431, "longitude": -79.4028, "propertyType": "Mixed-use rental, office and retail", "sizeSqft": 286185,
+    "description": "Mixed-use property in King West with rental homes, office space and retail.",
+    "hinesRoles": ["Asset Manager", "Developer", "Development Manager", "Owner", "Property Manager"],
+    "sourceUrl": "https://www.hines.com/properties/west-house-toronto", "coordinateSourceUrl": "https://maps.google.com/?q=43.6431%2C-79.4028&z=15", "retrievedAt": "2026-10-21"
+  },
+  {
+    "id": "hangar-district-yzd", "name": "The Hangar District at YZD", "address": "123 Garratt Boulevard", "city": "Toronto", "province": "Ontario",
+    "latitude": 43.743, "longitude": -79.4651, "propertyType": "Mixed-use district development", "sizeSqft": 1660628,
+    "description": "First proposed neighbourhood in the redevelopment of the former Downsview Airport lands; the Hines map point represents a larger district, not its boundary.",
+    "hinesRoles": ["Development Manager", "Property Manager"],
+    "sourceUrl": "https://www.hines.com/properties/the-hangar-district-at-yzd-toronto", "coordinateSourceUrl": "https://maps.google.com/?q=43.743%2C-79.4651&z=15", "retrievedAt": "2026-10-21"
+  },
+  {
+    "id": "bayside-toronto", "name": "Bayside Toronto", "address": "261 Queens Quay East", "city": "Toronto", "province": "Ontario",
+    "latitude": 43.6453, "longitude": -79.3624, "propertyType": "Mixed-use master development", "sizeSqft": null,
+    "description": "A waterfront master development spanning multiple residential, office, retail and cultural uses.",
+    "hinesRoles": ["Development Manager"],
+    "sourceUrl": "https://www.hines.com/properties/bayside-toronto-toronto-ontario", "coordinateSourceUrl": "https://maps.google.com/?q=43.6453%2C-79.3624&z=15", "retrievedAt": "2026-10-21"
+  },
+  {
+    "id": "t3-junction", "name": "T3 Junction", "address": "150–152 Sterling Road", "city": "Toronto", "province": "Ontario",
+    "latitude": 43.6558, "longitude": -79.4467, "propertyType": "Three-building timber office campus", "sizeSqft": null,
+    "description": "Timber office campus in Toronto's Junction Triangle.",
+    "hinesRoles": ["Asset Manager", "Developer", "Development Manager", "Owner", "Property Manager"],
+    "sourceUrl": "https://www.hines.com/properties/t3-junction-toronto", "coordinateSourceUrl": "https://maps.google.com/?q=43.6558%2C-79.4467&z=15", "retrievedAt": "2026-10-21"
+  }
+]

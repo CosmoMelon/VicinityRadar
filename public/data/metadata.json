@@ -1,0 +1,23 @@
+{
+  "project": "Vicinity Radar",
+  "dataMode": "verified",
+  "properties": {
+    "count": 5,
+    "source": "Hines property pages and linked Google Maps coordinates",
+    "retrievedAt": "2026-10-21"
+  },
+  "developments": {
+    "count": 2391,
+    "geocodedCount": 1849,
+    "excludedNoCoordinates": 542,
+    "rawCount": 2391,
+    "duplicateCount": 0,
+    "source": "City of Toronto Development Pipeline",
+    "sourceUrl": "https://open.toronto.ca/dataset/development-pipeline/",
+    "sourceVersion": "2026-10-08T07:24:49.689610",
+    "resourceUrl": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/a7a327c5-4e25-4881-816d-c8b145e02832/resource/16acceac-00b1-43a6-85b3-f5cddefb3015/download/development-pipeline.json",
+    "addressSourceUrl": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/abedd8bc-e3dd-4d45-8e69-79165a76e4fa/resource/64d4e54b-738f-4cd9-a9e7-8050fac8a52f/download/address-points-4326.csv",
+    "preparedAt": "2026-10-21T20:52:19+00:00",
+    "notes": "Coordinates are exact normalized-address matches to Toronto One Address Repository points. Multiple points or unmatched addresses are excluded. Active status and non-residential-only use stay unknown because the source does not specify construction or use type."
+  }
+}
